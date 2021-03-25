@@ -10,7 +10,7 @@
   "dependencies": {
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.7.0",
-    "core-js": "^3.6.4",
+    "core-js": "^3.9.1",
     "vue": "^2.6.11",
     "vue-resource": "^1.5.1"
   },
